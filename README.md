@@ -39,3 +39,4 @@ Machine Learning (ML) performs a pivotal role in revolutionizing financial analy
 • Time Series Analysis: ML algorithms examine time-primarily based financial information, consisting of stock prices or foreign exchange prices, to expect destiny trends and styles, helping in investment selections.
 
 • Natural Language Processing (NLP): NLP strategies are employed to analyze textual content-primarily based monetary records, along with news articles and financial reviews, to extract insights that have an impact on marketplace traits and funding decisions.
+
